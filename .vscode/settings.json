@@ -1,0 +1,7 @@
+{
+    "breadcrumbs.enabled": false,
+    "breadcrumbs.showArrays": false,
+    "breadcrumbs.showBooleans": false,
+    "breadcrumbs.showClasses": false,
+    "breadcrumbs.showEnums": false
+}

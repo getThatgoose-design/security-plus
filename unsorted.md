@@ -21,8 +21,7 @@ _Aaron's note: I suspect that some of this material isn't on the Security+ exam,
 - Nonessential services
   - Not monitored as oftne
   - Often not configured correctly
-- "Message authentication code (MAC) is a short piece of information that authenticates the message in an attempt to guarantee the message's data integrity"
-- "AES, DES, RC4, and 3DES are all symmetric encryption algorithms."
+- "Message authentication code (MAC) is a short piece of information that authenticates the message in an attempt to guarantee the message's data integrity- "AES, DES,  encryption algorithms."
 - Smurf: Occurs when a combination of IP spoofing and ICMP messages saturate a network.
 - "Proper external security testing should be conducted from outside the organization's security perimeter."
 - "MAC flooding sends many packets to a switch, each of which has a different source MAC address, in an attempt to use up the memory on the switch, changing the state of the switch to fail-open mode, which ultimately makes it function as a hub."
@@ -37,7 +36,7 @@ _Aaron's note: I suspect that some of this material isn't on the Security+ exam,
 - "A collision attack combines brute force attacks, each with a different input, to produce the same hash value."
 - "A baseline defines the minimum level of security and performance of a system in an organization."
 - "Hyperlink spoofing, which is also referred to as Web spoofing, is used by an attacker to persuade the Internet browser to connect to a fake server that appears as a valid session. "
-- "You should implement every computer on the demilitarized zone (DMZ) as a bastion host because any system on the DMZ can be compromised."
+- "You should implement every computer on the demilitarized zone (DMZ) as a bastion host because any system on the DMZ can be compromised." i iixudhrur
 - "Data control language (DCL) implements security through access control and granular restrictions."
 
 ## Wikipedia

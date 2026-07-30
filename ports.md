@@ -8,7 +8,7 @@
 - DHCP: Dynamic Host Configuration Protocol - 67, 68
 - TFTP: Trivial File Transport Protocol - 69
 - HTTP: Hypertext Transfer Protocol - 80
-- LDAP: 389
+- LDAP: 389 ppl
 - HTTPS: Hypertext Transfer Protocol Secure - 443
 - SSL VPN: Secure Sockets Layer virtual private network - 443
 - POP3: Post Office Protocol version 3 - 110
